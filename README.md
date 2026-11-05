@@ -6,13 +6,13 @@ Make sure you are signed in to **GitHub** before starting this assignment.
 
 If you don't have Git installed, please follow the installation instructions at this [link](https://github.com/git-guides/install-git).
 
-## Contributors List
+## Contributors List /hi
 
 | Clemson Username | GitHub Username | Group Number |
 | ---------------- | --------------- | ------------ |
 | nkandel          | nkclemson       | None         |
 | Halsey           | JosephHalsey    | 14           |
-|                  |                 |              |
+| idk              |  idk             |   idk           |
 
 
 ## ⚠️ Important: Complete the Form
